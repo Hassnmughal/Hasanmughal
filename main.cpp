@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 
-	// The class contains as private data a 3-by-3 double array of integers
-	// The constructor should initialize the empty board to all zeros. 
-
-
 	char board[3][3] = {{'1','2','3'},{'4','5','6'},{'7','8','9'}};
 	char turn = 'X';
 	int row,col;
@@ -14,7 +10,7 @@ using namespace std;
 void printBoard(){
 	
 	// clear the board to stay protected from repetition 
-	// system("cls");
+	system("cls");
 	
 	// Game starts from here
 	cout<<"\t\t T I C  T A C  T O E\n\n";
@@ -42,7 +38,8 @@ void makeMove(){
 	// making choice
 	if (turn == 'X'){
 		cout<<"\n\nPlayer1 [X] turn ";	
-	} if (turn == 'O') {
+	} 
+	if (turn == 'O') {
 		cout<<"\n\nPlayer2 [O] turn ";
 	} 
 	
@@ -53,7 +50,8 @@ void makeMove(){
 		cout<<"Number must be between 1 and 9!\nEnter valid choice:  ";
 		if (turn == 'X'){
 			cout<<"\n\nPlayer1 [X] turn ";	
-		} if (turn == 'O') {
+		} 
+		if (turn == 'O') {
 			cout<<"\n\nPlayer2 [O] turn ";
 		}
 		cin>>choice;
