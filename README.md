@@ -5,7 +5,7 @@
 ### Connect with me:
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff "hussanmughal9246@gmail.com")](mailto:hussanmughal9246@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff "muhammad-athar-330b75226")](https://www.linkedin.com/in/muhammad-athar-330b75226/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff "muhammad-athar")](https://www.linkedin.com/in/muhammad-athar-330b75226/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Hassan "iamhassan2662")](https://twitter.com/iamhassan2662)
 ![GitHub followers](https://img.shields.io/github/followers/Muhammad-Athar?label=follow&style=social "Follow on Github")
 
